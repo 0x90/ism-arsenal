@@ -1,0 +1,36 @@
+[submodule "brOOKforce"]
+	path = brOOKforce
+	url = https://github.com/Ganapati/brOOKforce
+[submodule "github-rfpwnon"]
+	path = github-rfpwnon
+	url = https://github.com/exploitagency/github-rfpwnon
+[submodule "minka_control"]
+	path = minka_control
+	url = https://github.com/netik/minka_control
+[submodule "RF_Device_Library"]
+	path = RF_Device_Library
+	url = https://github.com/50L1DU5/RF_Device_Library
+[submodule "gr-cc1111"]
+	path = gr-cc1111
+	url = https://github.com/funoverip/gr-cc1111
+[submodule "ooktools"]
+	path = ooktools
+	url = https://github.com/leonjza/ooktools
+[submodule "rolljam"]
+	path = rolljam
+	url = https://github.com/alextspy/rolljam
+[submodule "rfcat-hcs"]
+	path = rfcat-hcs
+	url = https://github.com/glabmoris/rfcat-hcs
+[submodule "garage_brute_force"]
+	path = garage_brute_force
+	url = https://github.com/mewz/garage_brute_force
+[submodule "RfCatHelpers"]
+	path = RfCatHelpers
+	url = https://github.com/AndrewMohawk/RfCatHelpers
+[submodule "pyTPMS"]
+	path = pyTPMS
+	url = https://github.com/dominicgs/pyTPMS
+[submodule "Insteon-Tools"]
+	path = Insteon-Tools
+	url = https://github.com/Trietptm-on-Security/Insteon-Tools/
