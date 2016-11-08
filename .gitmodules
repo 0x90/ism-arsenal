@@ -34,3 +34,9 @@
 [submodule "Insteon-Tools"]
 	path = Insteon-Tools
 	url = https://github.com/Trietptm-on-Security/Insteon-Tools/
+[submodule "rfm69-linux"]
+	path = rfm69-linux
+	url = https://github.com/contactless/rfm69-linux
+[submodule "rfsniffer"]
+	path = rfsniffer
+	url = https://github.com/contactless/rfsniffer
