@@ -40,3 +40,6 @@
 [submodule "rfsniffer"]
 	path = rfsniffer
 	url = https://github.com/contactless/rfsniffer
+[submodule "dot15d4_toolkit"]
+	path = dot15d4_toolkit
+	url = https://github.com/cutaway/dot15d4_toolkit
