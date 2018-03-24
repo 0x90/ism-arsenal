@@ -46,3 +46,6 @@
 [submodule "opensesame-yardstick"]
 	path = opensesame-yardstick
 	url = https://github.com/gyaresu/opensesame-yardstick
+[submodule "RFCrack"]
+	path = RFCrack
+	url = https://github.com/cclabsInc/RFCrack
