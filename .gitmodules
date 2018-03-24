@@ -49,3 +49,9 @@
 [submodule "RFCrack"]
 	path = RFCrack
 	url = https://github.com/cclabsInc/RFCrack
+[submodule "The-Fonz"]
+	path = The-Fonz
+	url = https://github.com/notpike/The-Fonz
+[submodule "PandwaRF"]
+	path = PandwaRF
+	url = https://github.com/ComThings/PandwaRF
