@@ -55,3 +55,21 @@
 [submodule "PandwaRF"]
 	path = PandwaRF
 	url = https://github.com/ComThings/PandwaRF
+[submodule "spectool-web"]
+	path = spectool-web
+	url = https://github.com/acg/spectool-web
+[submodule "subarufobrob"]
+	path = subarufobrob
+	url = https://github.com/tomwimmenhove/subarufobrob
+[submodule "rf-jam-replay"]
+	path = rf-jam-replay
+	url = https://github.com/trishmapow/rf-jam-replay
+[submodule "rf1101se-teensy"]
+	path = rf1101se-teensy
+	url = https://github.com/gyaresu/rf1101se-teensy
+[submodule "urh-cc1101_FEC_encode_decode_plugin"]
+	path = urh-cc1101_FEC_encode_decode_plugin
+	url = https://github.com/SpaceTeddy/urh-cc1101_FEC_encode_decode_plugin
+[submodule "beveiligen-connected-car"]
+	path = beveiligen-connected-car
+	url = https://github.com/gauthierdlb/beveiligen-connected-car
