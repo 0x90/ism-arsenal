@@ -73,3 +73,6 @@
 [submodule "beveiligen-connected-car"]
 	path = beveiligen-connected-car
 	url = https://github.com/gauthierdlb/beveiligen-connected-car
+[submodule "apimote"]
+	path = apimote
+	url = https://github.com/riverloopsec/apimote
