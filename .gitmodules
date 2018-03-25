@@ -31,9 +31,6 @@
 [submodule "pyTPMS"]
 	path = pyTPMS
 	url = https://github.com/dominicgs/pyTPMS
-[submodule "Insteon-Tools"]
-	path = Insteon-Tools
-	url = https://github.com/Trietptm-on-Security/Insteon-Tools/
 [submodule "rfm69-linux"]
 	path = rfm69-linux
 	url = https://github.com/contactless/rfm69-linux
